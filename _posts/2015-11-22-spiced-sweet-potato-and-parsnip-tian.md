@@ -6,7 +6,7 @@ post_date: 2015-11-22 20:43:17
 post_excerpt: ""
 layout: post
 permalink: >
-  http://recipebox.mkelley.net/etc/2015/11/spiced-sweet-potato-and-parsnip-tian/
+  http://recipebox.mkelley.net/recipes/2015/11/spiced-sweet-potato-and-parsnip-tian/
 published: true
 ---
 <blockquote>With apple cider, Aleppo pepper, and fresh thyme, this pretty dish offers a lighter take on your usual Thanksgiving sweet potato casserole.</blockquote>
