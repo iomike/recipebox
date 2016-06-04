@@ -8,7 +8,7 @@ post_date: 2015-08-31 18:26:20
 post_excerpt: ""
 layout: post
 permalink: >
-  http://recipebox.mkelley.net/etc/2015/08/roasted-cauliflower-vegetables-recipes-jamie-oliver-recipes/
+  http://recipebox.mkelley.net/recipes/2015/08/roasted-cauliflower-vegetables-recipes-jamie-oliver-recipes/
 published: true
 ---
 <blockquote>Roast cauliflower really is fantastic, which this recipe proves; add cumin, coriander and almonds and you'll be blow away by the incredible flavour.</blockquote>
