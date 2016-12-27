@@ -1,12 +1,12 @@
 ---
 ID: 412
-post_title: 'Recipe: Eggy, Crispy Polenta with Tomatoes &#038; Mushrooms — Recipes from The Kitchn'
+post_title: 'Recipe: Eggy, Crispy Polenta with Tomatoes &#038; Mushrooms'
 author: mkelley
 post_date: 2016-08-13 16:07:46
 post_excerpt: ""
 layout: post
 permalink: >
-  http://recipebox.mkelley.net/etc/2016/08/recipe-eggy-crispy-polenta-with-tomatoes-mushrooms-recipes-from-the-kitchn/
+  http://recipebox.mkelley.net/recipes/2016/08/recipe-eggy-crispy-polenta/
 published: true
 ---
 <blockquote>I love modular meals. Does that sound a weird word to apply to cooking? Let's say mix-and-match and make-ahead. Take this breakfast recipe, for instance. It depends on a couple of pieces that you can make ahead, then assemble quickly for a hot, savory meal that wouldn't be out of place in a nice restaurant. But with 10 minutes of work you can have it for breakfast tomorrow!</blockquote>
