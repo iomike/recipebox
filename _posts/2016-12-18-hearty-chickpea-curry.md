@@ -1,12 +1,12 @@
 ---
 ID: 456
-post_title: 'Hearty Chickpea Curry : GifRecipes'
+post_title: Hearty Chickpea Curry
 author: mkelley
 post_date: 2016-12-18 15:47:25
 post_excerpt: ""
 layout: post
 permalink: >
-  http://recipebox.mkelley.net/recipes/2016/12/hearty-chickpea-curry-gifrecipes/
+  http://recipebox.mkelley.net/recipes/2016/12/hearty-chickpea-curry/
 published: true
 ---
 <blockquote>Ingredients
