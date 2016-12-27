@@ -45,3 +45,13 @@ Stir in the spinach
 Add some more water if needs be
 Serve with basmati rice &amp; garnish with broken popadoms &amp; coriander (cilantro)</blockquote>
 Source: <em><a href="http://archive.is/MjYHO">Hearty Chickpea Curry : GifRecipes</a></em>
+
+&nbsp;
+<h2>Notes</h2>
+<img class="size-medium wp-image-503 alignright" src="http://recipebox.mkelley.net/wp-content/uploads/2016/12/15624925_576951052498924_5808694950010814464_n-300x300.jpg" alt="" width="300" height="300" />Trying this recipe out, I improvised a couple of things .
+
+I added cayenne pepper instead of the chili pods. I also didn't puree' the tomatoes and onions, I took the advice of someone in the Reddit comments and cooked the shit out of the tomatoes and onions instead.
+
+I wish I listened to them about not using the coconut cream. When I do this again, I'll use a tablespoon of the coconut cream and add sour cream, &amp; plain greek yogurt. You want the taste and the sweetness of the coconut cream but the yogurt or sour cream will add more of the creaminess.
+
+&nbsp;
