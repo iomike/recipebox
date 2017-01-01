@@ -48,7 +48,7 @@ Source: <em><a href="http://archive.is/MjYHO">Hearty Chickpea Curry : GifRecipes
 
 &nbsp;
 <h2>Notes</h2>
-<img class="size-medium wp-image-503 alignright" src="http://recipebox.mkelley.net/wp-content/uploads/2016/12/15624925_576951052498924_5808694950010814464_n-300x300.jpg" alt="" width="300" height="300" />Trying this recipe out, I improvised a couple of things .
+<a href="http://recipebox.mkelley.net/wp-content/uploads/2016/12/hpMnPKj.gif"><img class="wp-image-464 size-medium alignright" src="http://recipebox.mkelley.net/wp-content/uploads/2016/12/hpMnPKj-300x300.gif" width="300" height="300" /></a>Trying this recipe out, I improvised a couple of things .
 
 I added cayenne pepper instead of the chili pods. I also didn't puree' the tomatoes and onions, I took the advice of someone in the Reddit comments and cooked the shit out of the tomatoes and onions instead.
 
