@@ -1,6 +1,6 @@
 ---
 ID: 439
-post_title: 'Recipe: Southern-Style Cornbread Dressing'
+post_title: Southern-Style Cornbread Dressing
 author: mkelley
 post_date: 2016-11-19 08:11:58
 post_excerpt: ""
