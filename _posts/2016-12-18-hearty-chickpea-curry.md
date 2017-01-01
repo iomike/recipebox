@@ -1,7 +1,7 @@
 ---
 ID: 456
 post_title: Hearty Chickpea Curry
-author: mkelley
+author: Mike
 post_date: 2016-12-18 15:47:25
 post_excerpt: ""
 layout: post
