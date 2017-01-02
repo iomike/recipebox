@@ -2,8 +2,8 @@
 ID: 426
 post_title: >
   No-Waste Tacos de Carnitas With Salsa
-  Verde Recipe |
-author: mkelley
+  Verde Recipe
+author: Mike
 post_date: 2016-09-05 11:46:02
 post_excerpt: ""
 layout: post
