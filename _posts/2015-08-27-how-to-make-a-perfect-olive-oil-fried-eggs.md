@@ -1,12 +1,14 @@
 ---
 ID: 93
-post_title: 'How to Make a Perfect Olive Oil-Fried Egg &#8211; Bon Appétit'
-author: mkelley
+post_title: >
+  How to Make a Perfect Olive Oil-Fried
+  Egg
+author: Mike
 post_date: 2015-08-27 15:31:13
 post_excerpt: ""
 layout: post
 permalink: >
-  http://recipebox.mkelley.net/recipes/2015/08/how-to-make-a-perfect-olive-oil-fried-egg-bon-appetit/
+  http://recipebox.mkelley.net/recipes/2015/08/how-to-make-a-perfect-olive-oil-fried-eggs/
 published: true
 ---
 <blockquote>There's an art to the perfect olive oil-fried egg. Here's how to do it</blockquote>
