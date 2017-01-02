@@ -1,14 +1,12 @@
 ---
 ID: 230
-post_title: >
-  White Bean and Ham Soup Recipe |
-  SimplyRecipes.com
-author: mkelley
+post_title: White Bean and Ham Soup Recipe
+author: Mike
 post_date: 2015-11-12 13:04:35
 post_excerpt: ""
 layout: post
 permalink: >
-  http://recipebox.mkelley.net/recipes/2015/11/white-bean-and-ham-soup-recipe-simplyrecipes-com/
+  http://recipebox.mkelley.net/recipes/2015/11/white-bean-and-ham-soup/
 published: true
 ---
 <blockquote>Hearty white bean and ham soup, perfect for cold winter days! White beans, ham shanks, onions, celery, carrots, garlic, Tabasco, and herbs.</blockquote>
