@@ -1,12 +1,12 @@
 ---
 ID: 320
-post_title: 'Creamy Garlic Sauce &#8211; Recipe &#8211; Cooks.com'
-author: mkelley
+post_title: Creamy Garlic Sauce
+author: Mike
 post_date: 2016-01-18 21:17:06
 post_excerpt: ""
 layout: post
 permalink: >
-  http://recipebox.mkelley.net/recipes/2016/01/creamy-garlic-sauce-recipe-cooks-com/
+  http://recipebox.mkelley.net/recipes/2016/01/creamy-garlic-sauce/
 published: true
 ---
 Source: <em><a href="http://www.cooks.com/recipe/nd4xt6mt/creamy-garlic-sauce.html">Creamy Garlic Sauce - Recipe - Cooks.com</a></em>
