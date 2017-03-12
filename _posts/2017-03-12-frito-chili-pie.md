@@ -20,4 +20,4 @@ amazon-product-newwindow:
 <blockquote><a href="http://thepioneerwoman.com/cooking/frito-chili-pie/"><img class="alignnone size-full" src="http://cornbreadkelley.com/wp-content/uploads/2017/03/6183326568_bc21e73e9b_z.jpg" alt="" /></a>We’re submerged in football right now. There’s no other way to put it. Marlboro Man is coaching my two boys’ football team, Marlboro Man and I are both tuned in and watching all t…</blockquote>
 Source: <em><a href="http://thepioneerwoman.com/cooking/frito-chili-pie/">Frito Chili Pie</a></em>
 
-[AMAZONPRODUCTS asin="B00O6KGPAO"]
+[amazon-elements]
