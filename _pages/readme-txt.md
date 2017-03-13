@@ -1,11 +1,11 @@
 ---
 ID: 83
 post_title: Readme.txt
-author: mkelley
+author: Mike
 post_date: 2015-08-27 13:35:11
 post_excerpt: ""
 layout: page
-permalink: http://recipebox.mkelley.net/readme-txt/
+permalink: http://cornbreadkelley.com/readme-txt/
 published: true
 ---
 I'm based in beautiful Chattanooga, Tennessee and some of my life-long Southerness will come out in what I talk about.
@@ -25,7 +25,6 @@ We don't sous vide and we don't do molecular gastronomy, if that's your thing th
 <ol>
  	<li>Talk up, not down. It's just food. (see rule #2)</li>
  	<li>A photo (when possible).</li>
- 	<li>Ingredients will be local growers/farmers/supermarkets (nothing from Amazon). (see rule #3)</li>
  	<li>You will see the kitchen, mess and all.(see rule #3)</li>
  	<li>I will not make up new words (E-V-O-O? WTF?) (see rules #1 &amp; 3)</li>
  	<li>Sponsored posts will be marked as such. (see rule #3)</li>
