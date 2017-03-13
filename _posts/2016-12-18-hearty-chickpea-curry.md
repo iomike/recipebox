@@ -6,7 +6,7 @@ post_date: 2016-12-18 15:47:25
 post_excerpt: ""
 layout: post
 permalink: >
-  http://recipebox.mkelley.net/recipes/2016/12/hearty-chickpea-curry/
+  http://cornbreadkelley.com/recipes/2016/12/hearty-chickpea-curry/
 published: true
 ---
 <blockquote>Ingredients
