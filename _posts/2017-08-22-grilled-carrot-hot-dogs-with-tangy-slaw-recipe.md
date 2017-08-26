@@ -5,7 +5,7 @@ author: Mike
 post_excerpt: ""
 layout: post
 permalink: >
-  http://cornbreadkelley.com/etc/2017/08/grilled-carrot-hot-dogs-with-tangy-slaw-recipe/
+  http://cornbreadkelley.com/recipes/2017/08/grilled-carrot-hot-dogs-with-tangy-slaw-recipe/
 published: true
 post_date: 2017-08-22 20:50:02
 ---
