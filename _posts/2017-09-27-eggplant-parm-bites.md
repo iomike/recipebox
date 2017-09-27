@@ -9,4 +9,5 @@ permalink: >
 published: true
 post_date: 2017-09-27 18:34:17
 ---
-<a href="https://i.imgur.com/SCLnkuk.gifv">https://i.imgur.com/SCLnkuk.gifv</a>
+<blockquote class="imgur-embed-pub" lang="en" data-id="SCLnkuk"><a href="//imgur.com/SCLnkuk">Eggplant parm bites</a></blockquote>
+<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
