@@ -9,5 +9,4 @@ permalink: >
 published: true
 post_date: 2017-10-29 08:54:19
 ---
-
 Source: <em><a href="https://archive.is/EkpEY">Basic Polenta Recipe</a></em>
