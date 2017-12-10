@@ -7,7 +7,7 @@ author: Mike
 post_excerpt: ""
 layout: post
 permalink: >
-  http://cornbreadkelley.com/etc/2017/11/diy-donettes-mini-sugar-coated-doughnuts-recipe/
+  http://cornbreadkelley.com/recipes/2017/11/mini-sugar-coated-doughnuts/
 published: true
 post_date: 2017-11-17 21:48:27
 ---
