@@ -11,7 +11,7 @@ permalink: >
 published: true
 post_date: 2018-03-17 19:59:56
 ---
-<blockquote><a href="http://www.foodandwine.com/travel/best-polish-food-detroit-where-to-eat"><img class="alignnone size-full" src="http://cornbreadkelley.com/wp-content/uploads/2018/03/polish-restaurants-detroit-polonia-restaurant-ft-blog0318.jpg" alt="" /></a>The best restaurants to eat pierogies, goulash, "city chicken" and more.</blockquote>
+<blockquote>The best restaurants to eat pierogies, goulash, "city chicken" and more.</blockquote>
 Source: <em><a href="http://www.foodandwine.com/travel/best-polish-food-detroit-where-to-eat">Experience the Rich Legacy of Polish Food in Detroit at These 6 Spots | Food &amp; Wine</a></em>
 
 Look at that plate. Potato, pierogies and my favorite stuffed cabbage. We're looking at a few spots for travel and take in a few baseball games this year. Why not catch the Detroit Tigers and eat Detroit's best polish food?
