@@ -1,11 +1,11 @@
 ---
 ID: 929
-post_title: 'Why Jianbing is China&#8217;s Most Popular Street Breakfast | Serious Eats'
+post_title: 'Why Jianbing is China&#8217;s Most Popular Street Breakfast'
 author: Mike
 post_excerpt: ""
 layout: post
 permalink: >
-  http://cornbreadkelley.com/etc/2018/04/why-jianbing-is-chinas-most-popular-street-breakfast-serious-eats/
+  http://cornbreadkelley.com/recipes/2018/04/why-jianbing-is-chinas-most-popular-street-breakfast/
 published: true
 post_date: 2018-04-20 21:00:51
 ---
