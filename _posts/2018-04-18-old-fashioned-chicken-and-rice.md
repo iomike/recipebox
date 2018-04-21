@@ -9,5 +9,5 @@ permalink: >
 published: true
 post_date: 2018-04-18 19:34:48
 ---
-<blockquote><a href="http://sensetaste.com/old-fashioned-chicken-and-rice/"><img class="alignnone size-full" src="http://cornbreadkelley.com/wp-content/uploads/2018/04/final-2545.jpg" alt="" /></a>It looks like a chicken and rice soup, but the rice will soak up the broth until it’s smack-dab in the middle of the rice scale, between congee and al dente</blockquote>
+<blockquote>It looks like a chicken and rice soup, but the rice will soak up the broth until it’s smack-dab in the middle of the rice scale, between congee and al dente</blockquote>
 Source: <em><a href="http://sensetaste.com/old-fashioned-chicken-and-rice/">Old Fashioned Chicken and Rice - Sense of Taste</a></em>
