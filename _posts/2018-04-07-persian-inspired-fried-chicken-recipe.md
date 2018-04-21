@@ -5,7 +5,7 @@ author: Mike
 post_excerpt: ""
 layout: post
 permalink: >
-  http://cornbreadkelley.com/etc/2018/04/persian-inspired-fried-chicken-recipe/
+  http://cornbreadkelley.com/recipes/2018/04/persian-inspired-fried-chicken-recipe/
 published: true
 post_date: 2018-04-07 21:28:18
 ---
